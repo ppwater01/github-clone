@@ -110,7 +110,7 @@ a {
 
   /* HEADER */
 header {
-    background: #fff;
+    background: #000;
 }
 header .inner {
     height: 78px;
@@ -135,10 +135,10 @@ header .main-menu {
 header .main-menu li a {
     display: block;
     padding: 10px;
-    color: #3c4146;
+    color: #fff;
 }
 header .main-menu li a:hover {
-    color: #4078c0;
+    color: hsla(0,0%,100%,.7);
 }
 header .sign-group {
     display: flex;
