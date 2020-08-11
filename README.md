@@ -1,7 +1,8 @@
 # github.com clone coding
 
-## project completed date
-    **2020/8/10**
-    
-    1.added main.css(didn't complete it) html-added <header>
-    2.finished <head> tag
+## 2020/8/10
+   1.finished <head> tag
+   2.added main.css(didn't complete it) html-added <header>
+## 2020/8/11
+    1. added finished date in README.md
+    2. fixed mistake in list and added date => title
