@@ -12,4 +12,6 @@
     2. fixed mistake in list and added date => title
     3. added Line break in README.md
     4. fixed tag problems in README.md
+    5.changed colors (background & text)
+    6. added some touches to README.md
     ```
